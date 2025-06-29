@@ -25,6 +25,13 @@ A responsive **Amazon-like landing page clone** created using only **HTML**, **C
 
 ---
 
+## 📸 Preview
+
+| Homepage View |
+|---------------|
+| ![Amazon Clone Preview](boxes/preview.png) |
+
+
 ## 🏗️ Folder Structure
 
 ```plaintext
